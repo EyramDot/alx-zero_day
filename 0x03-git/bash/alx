@@ -1,2 +1,5 @@
 #!/bin/bash
+ update_script
 echo "AlX School"
+echo "AlX School is cool"
+master
