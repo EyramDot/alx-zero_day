@@ -1,0 +1,4 @@
+update_script
+#!/bin/bash
+echo "The school is open!"
+master
